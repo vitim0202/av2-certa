@@ -54,14 +54,14 @@
     padding: 1em;
     background-color: var(--branco);
 }
-.titulo_cabeçario{
+.titulo_cabecalho{
     display: none;
 }
 @media screen and (min-width: 1024px) {
-.titulo_cabeçalho{
+.titulo_cabecalho{
     font-size: 30px;
-    font-family:var(--font-secundaria);
-    color: rgb(44, 168, 121);
+    font-weight: 100px;
+    color: rgb(0, 0, 0);
     display: block;
 }    
 }
